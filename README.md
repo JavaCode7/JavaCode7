@@ -26,13 +26,3 @@ I also really like making programming languages.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
-
-<details>
-
-<summary>Extra info</summary>
-
-### Visitors:
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JavaCode7.JavaCode7)
-
-</details>
