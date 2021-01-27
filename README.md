@@ -1,5 +1,5 @@
 # JavaCode7
-<b>Hi!<b>
+**Hi!**
  
 ## About
 
