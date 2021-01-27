@@ -7,7 +7,12 @@ I'm JavaCode7 and I really like programming. My favourite language is Python as 
 
 I also really like making programming languages.
 
+<details>
+  <summary>GitHub Stats</summary>
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=dark)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&langs_count=10&theme=dark)
+
+</details>
