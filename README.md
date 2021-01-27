@@ -24,7 +24,7 @@ I also really like making programming languages.
 <details>
 <summary>Recent<summary>
 
-</details>
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
