@@ -10,4 +10,4 @@ I also really like making programming languages.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=dark)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&langs_count=10&theme=dark)
