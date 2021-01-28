@@ -21,12 +21,9 @@ I also really like making programming languages.
 
 </details>
 
-<details>
-<summary>Recent<summary>
+### Recent
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/JavaCode7/Caesium/pull/2) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
 2. 💪 Opened PR [#2](https://github.com/JavaCode7/Caesium/pull/2) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
 <!--END_SECTION:activity-->
-
-</details>
