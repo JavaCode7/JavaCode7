@@ -16,7 +16,7 @@ I also really like making programming languages.
 
 <br>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&&layout=compactshow_icons=true&theme=dark)
 <br>
 <br>
 
