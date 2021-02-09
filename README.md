@@ -16,11 +16,11 @@ I also really like making programming languages.
 
 <br>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=radical)
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&layout=compact&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&layout=compact&langs_count=10&theme=radical)
 
 </details>
 
