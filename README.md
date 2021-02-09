@@ -20,7 +20,7 @@ I also really like making programming languages.
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&layout=compact&langs_count=10&theme=drk)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&layout=compact&langs_count=10&theme=dark)
 
 </details>
 
