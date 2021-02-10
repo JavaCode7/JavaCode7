@@ -25,6 +25,6 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JavaCode7/Caesium/pull/2) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
+1. ❗️ Opened issue [#57](https://github.com/Ileriayo/markdown-badges/issues/57) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 2. 💪 Opened PR [#2](https://github.com/JavaCode7/Caesium/pull/2) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
 <!--END_SECTION:activity-->
