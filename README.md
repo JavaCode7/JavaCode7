@@ -28,3 +28,23 @@ I also really like making programming languages.
 1. ❗️ Opened issue [#57](https://github.com/Ileriayo/markdown-badges/issues/57) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 2. 💪 Opened PR [#2](https://github.com/JavaCode7/Caesium/pull/2) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
 <!--END_SECTION:activity-->
+
+## Repos
+
+### Programming Languages
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Caesium&show_owner=True)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Thulium&show_owner=True)
+
+### Editors
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=No-Sweat&show_owner=True)
+
+### Websites
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=javacode7.github.io&show_owner=True)
+
+### Other
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Hejjo&show_owner=True)
+
