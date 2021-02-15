@@ -35,6 +35,7 @@ I also really like making programming languages.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Caesium&show_owner=True)](https://github.com/JavaCode7/Caesium)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Thulium&show_owner=True)](https://github.com/JavaCode7/Thulium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Titanium&show_owner=True)](https://github.com/JavaCode7/Titanium)
 
 ### Editors
 
