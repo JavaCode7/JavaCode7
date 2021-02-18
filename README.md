@@ -38,7 +38,7 @@ I also really like making programming languages.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Titanium&show_owner=True)](https://github.com/JavaCode7/Titanium)
 
 ### Editors
-
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=No-Sweat&show_owner=True)](https://github.com/JavaCode7/No-Sweat)
 
 ### Websites
@@ -48,4 +48,5 @@ I also really like making programming languages.
 ### Other
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Hejjo&show_owner=True)](https://github.com/JavaCode7/Hejjo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Titanium-vscode&show_owner=True)](https://github.com/JavaCode7/Titanium-vscode)
 
