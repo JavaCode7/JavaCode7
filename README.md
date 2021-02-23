@@ -25,8 +25,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/JavaCode7/Caesium/issues/3) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
-2. 🎉 Merged PR [#3](https://github.com/JavaCode7/Caesium/pull/3) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
+1. 💪 Opened PR [#1](https://github.com/pranavbaburaj/algorithms/pull/1) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
+2. 🗣 Commented on [#3](https://github.com/JavaCode7/Caesium/issues/3) in [JavaCode7/Caesium](https://github.com/JavaCode7/Caesium)
 <!--END_SECTION:activity-->
 
 ## Repos
