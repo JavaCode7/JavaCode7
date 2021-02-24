@@ -25,8 +25,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/pranavbaburaj/algorithms/pull/2) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
-2. 🎉 Merged PR [#2](https://github.com/JavaCode7/Thulium/pull/2) in [JavaCode7/Thulium](https://github.com/JavaCode7/Thulium)
+1. 🗣 Commented on [#2](https://github.com/pranavbaburaj/algorithms/issues/2) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
+2. 💪 Opened PR [#3](https://github.com/pranavbaburaj/algorithms/pull/3) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
 <!--END_SECTION:activity-->
 
 ## Repos
