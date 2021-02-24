@@ -32,22 +32,9 @@ I also really like making programming languages.
 
 ## Repos
 
-### Programming Languages
+Shout out to great repos out there:<br>
+ - [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)<br>
+ - [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)<br>
+ - [nguyenphuminh/jellyscript](https://github.com/nguyenphuminh/jellyscript)<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Caesium&show_owner=True)](https://github.com/JavaCode7/Caesium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Thulium&show_owner=True)](https://github.com/JavaCode7/Thulium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Titanium&show_owner=True)](https://github.com/JavaCode7/Titanium)
-
-### Editors
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=No-Sweat&show_owner=True)](https://github.com/JavaCode7/No-Sweat)
-
-### Websites
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=javacode7.github.io&show_owner=True)](https://github.com/JavaCode7/javacode7.github.io)
-
-### Other
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Hejjo&show_owner=True)](https://github.com/JavaCode7/Hejjo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavaCode7&repo=Titanium-vscode&show_owner=True)](https://github.com/JavaCode7/Titanium-vscode)
-
+Make sure to check at lest one of these out and don't forget to pop a star or even fork 😉.
