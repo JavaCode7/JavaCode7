@@ -27,7 +27,7 @@ I also really like making programming languages.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/pranavbaburaj/algorithms/issues/4) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
-2. 💪 Opened PR [#4](https://github.com/pranavbaburaj/algorithms/pull/4) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
+2. 🗣 Commented on [#4](https://github.com/pranavbaburaj/algorithms/issues/4) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
 <!--END_SECTION:activity-->
 
 ## Repos
