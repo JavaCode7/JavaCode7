@@ -26,7 +26,7 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/pranavbaburaj/algorithms/issues/4) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
+1. 💪 Opened PR [#1](https://github.com/nguyenphuminh/Jellyscript/pull/1) in [nguyenphuminh/Jellyscript](https://github.com/nguyenphuminh/Jellyscript)
 2. 🗣 Commented on [#4](https://github.com/pranavbaburaj/algorithms/issues/4) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
 <!--END_SECTION:activity-->
 
