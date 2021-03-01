@@ -28,7 +28,7 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/JavaCode7/Hejjo/issues/1) in [JavaCode7/Hejjo](https://github.com/JavaCode7/Hejjo)
+1. 💪 Opened PR [#2](https://github.com/nguyenphuminh/Jellyscript/pull/2) in [nguyenphuminh/Jellyscript](https://github.com/nguyenphuminh/Jellyscript)
 2. 🗣 Commented on [#1](https://github.com/JavaCode7/Hejjo/issues/1) in [JavaCode7/Hejjo](https://github.com/JavaCode7/Hejjo)
 <!--END_SECTION:activity-->
 
