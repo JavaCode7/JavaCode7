@@ -28,8 +28,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nguyenphuminh/Jellyscript/pull/1) in [nguyenphuminh/Jellyscript](https://github.com/nguyenphuminh/Jellyscript)
-2. 🗣 Commented on [#4](https://github.com/pranavbaburaj/algorithms/issues/4) in [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)
+1. 🎉 Merged PR [#1](https://github.com/JavaCode7/Hejjo/pull/1) in [JavaCode7/Hejjo](https://github.com/JavaCode7/Hejjo)
+2. 💪 Opened PR [#1](https://github.com/nguyenphuminh/Jellyscript/pull/1) in [nguyenphuminh/Jellyscript](https://github.com/nguyenphuminh/Jellyscript)
 <!--END_SECTION:activity-->
 
 ## Repos
