@@ -18,7 +18,7 @@ I also really like making programming languages.
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=radical)<br>
 <!--I put langs_count=11 so that it doesn't revert to javascript as the dominant language.-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&exclude_repo=p5-links&layout=compact&langs_count=11&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&exclude_repo=p5-links,Hejjo&layout=compact&langs_count=11&theme=radical)<br>
 ![Metrics](https://metrics.lecoq.io/JavaCode7)
 <br>
 <br>
