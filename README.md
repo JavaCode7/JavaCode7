@@ -27,8 +27,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/JesseBoogaard/isOddOrEven-collection/pull/42) in [JesseBoogaard/isOddOrEven-collection](https://github.com/JesseBoogaard/isOddOrEven-collection)
-2. 🗣 Commented on [#2](https://github.com/JavaCode7/Hejjo/issues/2) in [JavaCode7/Hejjo](https://github.com/JavaCode7/Hejjo)
+1. 💪 Opened PR [#43](https://github.com/JesseBoogaard/isOddOrEven-collection/pull/43) in [JesseBoogaard/isOddOrEven-collection](https://github.com/JesseBoogaard/isOddOrEven-collection)
+2. ❌ Closed PR [#42](https://github.com/JesseBoogaard/isOddOrEven-collection/pull/42) in [JesseBoogaard/isOddOrEven-collection](https://github.com/JesseBoogaard/isOddOrEven-collection)
 <!--END_SECTION:activity-->
 
 ## Repos
