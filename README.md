@@ -27,8 +27,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Technetium-Inc/Beryllium/pull/1) in [Technetium-Inc/Beryllium](https://github.com/Technetium-Inc/Beryllium)
-2. 🗣 Commented on [#1](https://github.com/Technetium-Inc/Beryllium/issues/1) in [Technetium-Inc/Beryllium](https://github.com/Technetium-Inc/Beryllium)
+1. 🗣 Commented on [#2](https://github.com/JavaCode7/Hejjo/issues/2) in [JavaCode7/Hejjo](https://github.com/JavaCode7/Hejjo)
+2. 🎉 Merged PR [#2](https://github.com/JavaCode7/Hejjo/pull/2) in [JavaCode7/Hejjo](https://github.com/JavaCode7/Hejjo)
 <!--END_SECTION:activity-->
 
 ## Repos
