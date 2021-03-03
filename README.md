@@ -40,3 +40,7 @@ Shout out to great repos out there:<br>
  - [nguyenphuminh/jellyscript](https://github.com/nguyenphuminh/jellyscript)<br>
 
 Make sure to check at lest one of these out and don't forget to pop a star or even fork 😉.
+
+## Fun Facts
+- I custom designed my profile pic!
+- I am a chemistry lover who doen't spend much time doing chemistry
