@@ -19,6 +19,7 @@ I also really like making programming languages.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JavaCode7&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&exclude_repo=p5-links,Hejjo&layout=compact&langs_count=10&theme=radical)<br>
 ![Metrics](https://metrics.lecoq.io/JavaCode7)
+<img src="https://github-profile-trophy.vercel.app/?username=JavaCode7&theme=onedark" width="800"/>
 <br>
 <br>
 
