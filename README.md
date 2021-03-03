@@ -7,7 +7,7 @@
 
 I'm JavaCode7 and I really like programming. My favourite language is Python as it's my best language and it's powerful.
 
-I also really like making programming languages.
+I also really like making programming languages. I am the creator of the Thulium, Chromium and Titanium esoteric programming languages and I helped create the Beryllium esolang as well.
 
 ## Extras
 
