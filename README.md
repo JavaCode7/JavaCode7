@@ -27,8 +27,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
-2. ❗️ Opened issue [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
+1. 🗣 Commented on [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
+2. ❗️ Closed issue [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
 <!--END_SECTION:activity-->
 
 ## Repos
