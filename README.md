@@ -27,8 +27,8 @@ I also really like making programming languages.
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/JesseBoogaard/isOddOrEven-collection/issues/43) in [JesseBoogaard/isOddOrEven-collection](https://github.com/JesseBoogaard/isOddOrEven-collection)
-2. 💪 Opened PR [#43](https://github.com/JesseBoogaard/isOddOrEven-collection/pull/43) in [JesseBoogaard/isOddOrEven-collection](https://github.com/JesseBoogaard/isOddOrEven-collection)
+1. ❗️ Opened issue [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
+2. 🗣 Commented on [#43](https://github.com/JesseBoogaard/isOddOrEven-collection/issues/43) in [JesseBoogaard/isOddOrEven-collection](https://github.com/JesseBoogaard/isOddOrEven-collection)
 <!--END_SECTION:activity-->
 
 ## Repos
