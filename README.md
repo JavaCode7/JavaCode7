@@ -32,14 +32,18 @@ I also really like making programming languages. I am the creator of the Thulium
 2. ❗️ Closed issue [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
 <!--END_SECTION:activity-->
 
-## Repos
+## Awesome Things other people made
 
 Shout out to great repos out there:<br>
  - [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)<br>
  - [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)<br>
  - [nguyenphuminh/jellyscript](https://github.com/nguyenphuminh/jellyscript)<br>
 
-Make sure to check at lest one of these out and don't forget to pop a star or even fork 😉.
+ Make sure to check at lest one of these out and don't forget to pop a star or even fork 😉.
+ 
+ Orgs I recommend:<br>
+ - [Code Roller](https://github.com/code-roller)<br>
+   To join, go to their [discord server](https://discord.gg/5XEy3mCGkD) and post your github account (with link) in the #collaboration channel. They will then discuss and get back to you.
 
 ## Fun Facts
 - I custom designed my profile pic!
