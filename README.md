@@ -43,7 +43,7 @@ Shout out to great repos out there:<br>
  
  Orgs I recommend:<br>
  - [Code Roller](https://github.com/code-roller)<br>
-   To join, go to their [discord server](https://discord.gg/5XEy3mCGkD) and post your github account (with link) in the #collaboration channel. You then need to post `Let me in`. They will then discuss and get back to you.
+   To join, go to their [discord server](https://discord.gg/5XEy3mCGkD) and post your github account (with link) in the #collaboration channel. In the same channel, you then need to post `Let me in`. They will then discuss and get back to you.
 
 ## Fun Facts
 - I custom designed my profile pic!
