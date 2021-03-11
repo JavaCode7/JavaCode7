@@ -20,6 +20,7 @@ I also really like making programming languages. I am the creator of the Thulium
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaCode7&exclude_repo=p5-links,Hejjo&layout=compact&langs_count=10&theme=radical)<br>
 ![Metrics](https://metrics.lecoq.io/JavaCode7)
 <img src="https://github-profile-trophy.vercel.app/?username=JavaCode7&theme=onedark" width="800"/>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 
