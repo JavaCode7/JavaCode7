@@ -28,8 +28,8 @@ I also really like making programming languages. I am the creator of the Thulium
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
-2. ❗️ Closed issue [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
+1. ❗️ Opened issue [#4](https://github.com/IndianOpenSourceFoundation/getting-started/issues/4) in [IndianOpenSourceFoundation/getting-started](https://github.com/IndianOpenSourceFoundation/getting-started)
+2. 🗣 Commented on [#1](https://github.com/nguyenphuminh/nguyenphuminh/issues/1) in [nguyenphuminh/nguyenphuminh](https://github.com/nguyenphuminh/nguyenphuminh)
 <!--END_SECTION:activity-->
 
 ## Awesome Things other people made
