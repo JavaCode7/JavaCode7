@@ -44,7 +44,7 @@ Shout out to great repos out there:<br>
  
  Orgs I recommend:<br>
  - [Code Roller](https://github.com/code-roller)<br>
-   To join, go to their [discord server](https://discord.gg/5XEy3mCGkD), react tu the rules in the rules channel and introduce yourself in the introduce-yourself channel. After you have done all that, go to the collaboration channel and react to the message with thumbsup. They will talk about it and get back to you.
+   To join, go to their [discord server](https://discord.gg/5XEy3mCGkD), react to the rules in the rules channel and introduce yourself in the introduce-yourself channel. After you have done all that, go to the collaboration channel and react to the message with thumbsup. They will talk about it and get back to you.
    
 ## Fun Facts
 - I custom designed my profile pic!
