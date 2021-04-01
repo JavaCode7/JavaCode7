@@ -29,8 +29,8 @@ I also really like making programming languages. I am the creator of the Thulium
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/nguyenphuminh/HelloWorld/pull/3) in [nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)
-2. ❗️ Opened issue [#4](https://github.com/IndianOpenSourceFoundation/getting-started/issues/4) in [IndianOpenSourceFoundation/getting-started](https://github.com/IndianOpenSourceFoundation/getting-started)
+1. ❗️ Opened issue [#740](https://github.com/rossjrw/rossjrw/issues/740) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+2. 💪 Opened PR [#3](https://github.com/nguyenphuminh/HelloWorld/pull/3) in [nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)
 <!--END_SECTION:activity-->
 
 ## Awesome Things other people made
