@@ -29,8 +29,8 @@ I also really like making programming languages. I am the creator of the Thulium
 ### Recent
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12286](https://github.com/timburgan/timburgan/issues/12286) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#740](https://github.com/rossjrw/rossjrw/issues/740) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+1. ❗️ Opened issue [#1903](https://github.com/JonathanGin52/JonathanGin52/issues/1903) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#1902](https://github.com/JonathanGin52/JonathanGin52/issues/1902) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 ## Awesome Things other people made
