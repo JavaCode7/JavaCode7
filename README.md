@@ -29,8 +29,8 @@ I also really like making programming languages. I am the creator of the Thulium
 ### Recent
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1918](https://github.com/JonathanGin52/JonathanGin52/issues/1918) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#1916](https://github.com/JonathanGin52/JonathanGin52/issues/1916) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 💪 Opened PR [#1](https://github.com/technetium-inc/getting-started/pull/1) in [technetium-inc/getting-started](https://github.com/technetium-inc/getting-started)
+2. ❗️ Opened issue [#1918](https://github.com/JonathanGin52/JonathanGin52/issues/1918) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 ## Awesome Things other people made
