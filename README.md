@@ -10,6 +10,8 @@ I'm JavaCode7 and I really like programming. My favourite language is Python as 
 
 I also really like making programming languages. I am the creator of the Thulium, Chromium and Titanium esoteric programming languages and I helped create the Beryllium esolang as well.
 
+I have a [dev.to account](https://dev.to/javacode7) as well. Check it out!
+
 ## Extras
 
 <details>
