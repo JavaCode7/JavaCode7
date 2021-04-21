@@ -31,8 +31,8 @@ I have a [dev.to account](https://dev.to/javacode7) as well. Check it out!
 ### Recent
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/JavaCode7/GHCLI/issues/1) in [JavaCode7/GHCLI](https://github.com/JavaCode7/GHCLI)
-2. 🗣 Commented on [#1](https://github.com/JavaCode7/GHCLI/issues/1) in [JavaCode7/GHCLI](https://github.com/JavaCode7/GHCLI)
+1. 🗣 Commented on [#57](https://github.com/Ileriayo/markdown-badges/issues/57) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. ❗️ Closed issue [#1](https://github.com/JavaCode7/GHCLI/issues/1) in [JavaCode7/GHCLI](https://github.com/JavaCode7/GHCLI)
 <!--END_SECTION:activity-->
 
 ## Awesome Things other people made
