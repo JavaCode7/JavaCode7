@@ -35,19 +35,6 @@ I have a [dev.to account](https://dev.to/javacode7) as well. Check it out!
 2. ❗️ Closed issue [#1](https://github.com/JavaCode7/GHCLI/issues/1) in [JavaCode7/GHCLI](https://github.com/JavaCode7/GHCLI)
 <!--END_SECTION:activity-->
 
-## Awesome Things other people made
-
-Shout out to great repos out there:<br>
- - [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)<br>
- - [pranavbaburaj/algorithms](https://github.com/pranavbaburaj/algorithms)<br>
- - [nguyenphuminh/jellyscript](https://github.com/nguyenphuminh/jellyscript)<br>
-
- Make sure to check at lest one of these out and don't forget to pop a star or even fork 😉.
- 
- 
- Orgs I recommend:<br>
- - [Code Roller](https://github.com/code-roller)<br>
-   To join, go to their [discord server](https://discord.gg/5XEy3mCGkD), react to the rules in the rules channel and introduce yourself in the introduce-yourself channel. After you have done all that, go to the collaboration channel and react to the message with thumbsup. They will talk about it and get back to you.
    
 ## Fun Facts
 - I custom designed my profile pic!
