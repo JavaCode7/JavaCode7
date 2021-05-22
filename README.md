@@ -31,8 +31,8 @@ I have a [dev.to account](https://dev.to/javacode7) as well. Check it out!
 ### Recent
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/nguyenphuminh/HelloWorld/issues/9) in [nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)
-2. 🗣 Commented on [#57](https://github.com/Ileriayo/markdown-badges/issues/57) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. 🗣 Commented on [#4](https://github.com/FreakC-Foundation/FreakC/issues/4) in [FreakC-Foundation/FreakC](https://github.com/FreakC-Foundation/FreakC)
+2. 🗣 Commented on [#9](https://github.com/nguyenphuminh/HelloWorld/issues/9) in [nguyenphuminh/HelloWorld](https://github.com/nguyenphuminh/HelloWorld)
 <!--END_SECTION:activity-->
 
    
