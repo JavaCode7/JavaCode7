@@ -31,8 +31,8 @@ I have a [dev.to account](https://dev.to/javacode7) as well. Check it out!
 ### Recent
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Raffy27/dc-mapper/issues/1) in [Raffy27/dc-mapper](https://github.com/Raffy27/dc-mapper)
-2. 🗣 Commented on [#4](https://github.com/FreakC-Foundation/FreakC/issues/4) in [FreakC-Foundation/FreakC](https://github.com/FreakC-Foundation/FreakC)
+1. 🗣 Commented on [#3](https://github.com/JavaCode7/Thulium/issues/3) in [JavaCode7/Thulium](https://github.com/JavaCode7/Thulium)
+2. ❗️ Opened issue [#1](https://github.com/Raffy27/dc-mapper/issues/1) in [Raffy27/dc-mapper](https://github.com/Raffy27/dc-mapper)
 <!--END_SECTION:activity-->
 
    
